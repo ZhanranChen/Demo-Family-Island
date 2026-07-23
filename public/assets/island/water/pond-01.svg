@@ -1,0 +1,7 @@
+<svg width="260" height="160" viewBox="0 0 260 160" xmlns="http://www.w3.org/2000/svg">
+  <text x="6" y="16" font-family="sans-serif" font-size="10" fill="#99897A">pond_01 — placeholder</text>
+  <ellipse cx="130" cy="140" rx="90" ry="14" fill="#2A2118" opacity="0.1"/>
+  <ellipse cx="130" cy="90" rx="100" ry="52" fill="#557259" opacity="0.5"/>
+  <ellipse cx="130" cy="90" rx="82" ry="40" fill="#BFE0DC"/>
+  <ellipse cx="105" cy="80" rx="30" ry="14" fill="#ffffff" opacity="0.35"/>
+</svg>

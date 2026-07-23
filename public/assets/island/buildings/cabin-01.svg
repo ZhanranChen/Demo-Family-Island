@@ -1,0 +1,12 @@
+<svg width="300" height="280" viewBox="0 0 300 280" xmlns="http://www.w3.org/2000/svg">
+  <text x="8" y="18" font-family="sans-serif" font-size="11" fill="#99897A">cabin_01 — placeholder</text>
+  <ellipse cx="150" cy="240" rx="110" ry="18" fill="#2A2118" opacity="0.12"/>
+  <rect x="70" y="120" width="160" height="110" rx="4" fill="#E0D3BC"/>
+  <rect x="70" y="120" width="160" height="110" rx="4" fill="none" stroke="#C9862A" stroke-width="2" opacity="0.4"/>
+  <path d="M 55 125 L 150 55 L 245 125 Z" fill="#557259"/>
+  <path d="M 55 125 L 150 55 L 150 125 Z" fill="#6B8F71" opacity="0.6"/>
+  <rect x="140" y="60" width="16" height="26" fill="#557259"/>
+  <rect x="132" y="170" width="36" height="60" rx="2" fill="#2A2118" opacity="0.55"/>
+  <rect x="90" y="150" width="30" height="26" rx="2" fill="#F0B457" opacity="0.85"/>
+  <rect x="180" y="150" width="30" height="26" rx="2" fill="#F0B457" opacity="0.85"/>
+</svg>

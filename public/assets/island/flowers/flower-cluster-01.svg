@@ -1,0 +1,23 @@
+<svg width="120" height="100" viewBox="0 0 120 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="4" y="14" font-family="sans-serif" font-size="9" fill="#99897A">flower_cluster_01 — placeholder</text>
+  <ellipse cx="60" cy="88" rx="38" ry="8" fill="#2A2118" opacity="0.1"/>
+  <g>
+    <circle cx="35" cy="60" r="14" fill="#82AC8A" opacity="0.4"/>
+    <circle cx="70" cy="66" r="16" fill="#82AC8A" opacity="0.4"/>
+    <circle cx="55" cy="45" r="13" fill="#82AC8A" opacity="0.4"/>
+  </g>
+  <g fill="#F0B457">
+    <circle cx="30" cy="55" r="6"/>
+    <circle cx="45" cy="62" r="6"/>
+    <circle cx="65" cy="50" r="6"/>
+    <circle cx="80" cy="60" r="6"/>
+    <circle cx="55" cy="70" r="6"/>
+  </g>
+  <g fill="#C9862A">
+    <circle cx="30" cy="55" r="2.5"/>
+    <circle cx="45" cy="62" r="2.5"/>
+    <circle cx="65" cy="50" r="2.5"/>
+    <circle cx="80" cy="60" r="2.5"/>
+    <circle cx="55" cy="70" r="2.5"/>
+  </g>
+</svg>

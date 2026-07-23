@@ -1,0 +1,9 @@
+<svg width="100" height="90" viewBox="0 0 100 90" xmlns="http://www.w3.org/2000/svg">
+  <text x="4" y="12" font-family="sans-serif" font-size="9" fill="#99897A">cat_01 — placeholder</text>
+  <ellipse cx="50" cy="76" rx="28" ry="7" fill="#2A2118" opacity="0.12"/>
+  <ellipse cx="46" cy="55" rx="24" ry="16" fill="#2A2118"/>
+  <circle cx="72" cy="42" r="13" fill="#2A2118"/>
+  <path d="M 64 32 L 61 20 L 72 30 Z" fill="#2A2118"/>
+  <path d="M 78 30 L 85 19 L 80 32 Z" fill="#2A2118"/>
+  <path d="M 20 55 Q 5 40 14 25" fill="none" stroke="#2A2118" stroke-width="6" stroke-linecap="round"/>
+</svg>
